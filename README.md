@@ -35,8 +35,8 @@ Customer churn is one of the biggest challenges in the telecom industry. This pr
 ```
 ChurnGuard/
 │
-├── PROJECT_1-Telecom_churn_analysis.ipynb   # Main analysis notebook
-├── Churn_dataset.csv                         # Dataset (download separately)
+├── Telecom_churn_analysis.ipynb   # Main analysis notebook
+├── Churn_dataset.csv              # Dataset (download separately)
 └── README.md
 ```
 
